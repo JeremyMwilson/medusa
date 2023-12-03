@@ -1,5 +1,14 @@
 # @medusajs/admin-ui
 
+## 2.1.10
+
+### Patch Changes
+
+- [#5769](https://github.com/medusajs/medusa/pull/5769) [`f20d484b2`](https://github.com/medusajs/medusa/commit/f20d484b2381d07aac3e86d02f424f16b532c302) Thanks [@iweurman](https://github.com/iweurman)! - feat(admin): Add Korean language support
+
+- Updated dependencies [[`4e9d95454`](https://github.com/medusajs/medusa/commit/4e9d954549916ea260583a6b5e36f0c6c02d4d22)]:
+  - medusa-react@9.0.12
+
 ## 2.1.9
 
 ### Patch Changes
